@@ -51,7 +51,7 @@
     "node-sass": "^4.13.1"
   },
   "devDependencies": {
-    "@tarojs/mini-runner": "^2.0.2",
+    "@tarojs/mini-runner": "^3.5.11",
     "@tarojs/webpack-runner": "2.0.1",
     "@types/react": "^16.4.6",
     "@types/webpack-env": "^1.13.6",
